@@ -34,7 +34,7 @@ Description = 'Uses Make Me Admin service to make standard user account to admin
  See Make Me Admin wiki https://github.com/pseymour/MakeMeAdmin/wiki. PowerShell alternative to original GUI tool.'
 
 # Minimum version of the PowerShell engine required by this module
-# PowerShellVersion = ''
+PowerShellVersion = '5.1'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
