@@ -99,13 +99,13 @@ PrivateData = @{
         Tags = @('admin-rights','makemeadmin')
 
         # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://raw.githubusercontent.com/tkouba/MakeMeAdminPowerShell/refs/heads/master/LICENSE.txt'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/tkouba/MakeMeAdminPowerShell'
 
         # A URL to an icon representing this module.
-        # IconUri = ''
+        IconUri = 'https://raw.githubusercontent.com/tkouba/MakeMeAdminPowerShell/refs/heads/master/SecurityLock.ico'
 
         # ReleaseNotes of this module
         # ReleaseNotes = ''
